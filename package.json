@@ -1,0 +1,14 @@
+{
+  "name": "i18n-define-locale-ssr-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "nuxt": "^4.3.0",
+    "@nuxtjs/i18n": "^10.2.3"
+  }
+}
